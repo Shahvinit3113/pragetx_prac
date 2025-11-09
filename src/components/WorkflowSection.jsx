@@ -14,7 +14,7 @@ const WorkflowSection = React.memo(() => {
           that work for you
         </h2>
 
-        <p className="mt-4 text-gray-600 text-lg max-w-2xl mx-auto">
+        <p className="mt-4 text-gray-600 text-md max-w-2xl mx-auto font-medium">
           Automate repetitive tasks, empower AI-driven decision-making, and
           build a secure, scalable digital backbone so your business runs
           faster, smarter, and more reliably than ever.
@@ -64,7 +64,7 @@ const WorkflowSection = React.memo(() => {
             That Run Themselves
           </h3>
 
-          <p className="mt-5 text-gray-600 text-lg max-w-lg">
+          <p className="mt-5 text-gray-600 text-md max-w-lg font-medium">
             Automation replaces manual, repetitive work with smart, AI-driven
             workflows that run effortlessly and accurately.
           </p>

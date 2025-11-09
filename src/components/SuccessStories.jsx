@@ -22,7 +22,7 @@ const SuccessStories = React.memo(() => {
               </span>{" "}
               Stories That Matter
             </h2>
-            <p className="text-gray-600 mt-2 max-w-2xl mx-auto md:mx-0">
+            <p className="text-gray-600 mt-2 max-w-2xl mx-auto md:mx-0 font-medium text-md">
               See how companies are cutting costs and boosting efficiency with
               our AI-powered solutions.
             </p>
@@ -64,7 +64,7 @@ const SuccessStories = React.memo(() => {
               </h3>
             </div>
 
-            <p className="text-gray-600 mb-6 max-w-md leading-relaxed">
+            <p className="text-gray-600 mb-6 max-w-md leading-relaxed font-medium text-md">
               SwiftLogix partnered with us to automate shipment tracking and
               customer support. By deploying AI agents, they reduced manual data
               entry by 75%, cut response times from hours to seconds, and

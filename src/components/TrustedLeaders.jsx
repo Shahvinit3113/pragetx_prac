@@ -44,7 +44,7 @@ const TrustedLeaders = React.memo(() => {
               Leaders
             </span>
           </h2>
-          <p className="text-gray-600 mb-12 text-base max-w-2xl mx-auto">
+          <p className="text-gray-600 mb-12 font-medium text-md max-w-2xl mx-auto">
             See what our clients say about scaling smarter with AI agents.
           </p>
         </header>

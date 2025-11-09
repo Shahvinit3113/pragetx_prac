@@ -151,7 +151,7 @@ const RightTime = React.memo(() => {
               </h3>
 
               {/* Description */}
-              <p className="text-gray-600 mb-8 max-w-md">
+              <p className="text-gray-600 mb-8 max-w-md text-md font-medium">
                 Join hands with our skilled team to turn bold ideas into
                 practical, scalable AI solutions.
               </p>
